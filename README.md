@@ -48,7 +48,7 @@ The experiments here are narrower. Splitting each of them into a separate public
 └── pyproject.toml
 ```
 
-Shared reusable logic lives under `src/ai_ml_labs/`. Each lab keeps its executable example and its own focused README.
+Shared reusable logic lives under `src/ai_ml_labs/`. Each lab keeps its executable example, focused README, scope, and limitations.
 
 ## Setup
 
